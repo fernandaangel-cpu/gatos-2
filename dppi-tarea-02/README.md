@@ -20,7 +20,7 @@ Checked in this order — when a pose matches, earlier ones win:
 | 6 | **El Loco** | Ambos índices extendidos apuntando hacia las sienes | `Elloco.jpeg` |
 | 7 | **Emperador** | Cabeza frontal, manos abajo y brazos relajados (Default) | `emperador.jpeg` |
 
-- [carpeta de imágenes](./dppi-tarea-02/cartas)
+- [carpeta de imágenes](cartas)
 
 - [video](./)
   
