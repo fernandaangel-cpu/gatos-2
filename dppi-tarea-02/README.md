@@ -22,7 +22,7 @@ Checked in this order — when a pose matches, earlier ones win:
 
 - [carpeta de imágenes](cartas)
 
-- [video](./)
+- [video](Grabación de pantalla 2026-09-02 a la(s) 18.mp4)
   
 Meme images live in `cartas/`.
 
