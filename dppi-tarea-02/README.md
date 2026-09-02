@@ -1,10 +1,19 @@
-# Tarot Cam Meme Detector
+# Tarot Cam Detector
+
+- **Fernanda Angel**
+
+- Asignatura: Dispositivos Periféricos y Plataformas para la Interacción Digital **DIS9087**
+
+Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado tomando como referencia este repositorio:
+
+- <https://github.com/catherpiee/meowmeowcatcam>
+
 
 Point your webcam at yourself, make a gesture, and get the matching Tarot card meme in real time. Runs either as a desktop app (OpenCV windows) or entirely in the browser (MediaPipe WASM, no install).
 
 Two windows/panes side by side: 
 - **Camera** — your webcam feed with hand landmarks drawn on top, plus a live debug readout in the corner
-- **Meme** — the Tarot card matching whatever gesture you're currently making
+- **carta** — the Tarot card matching whatever gesture you're currently making
 
 ## Jerarquía de Gestos (cartas)
 
