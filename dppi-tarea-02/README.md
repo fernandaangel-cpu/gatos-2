@@ -10,7 +10,7 @@ Two windows/panes side by side:
 
 Checked in this order — when a pose matches, earlier ones win:
 
-| # | Carta | Gesto / Trigger | Archivo |
+| # | Carta | como se activa |imagen |
 |---|---|---|---|
 | 1 | **Muerte** | Cabeza inclinada lateralmente $\ge 20^\circ$, con una oreja acercándose al hombro | `muerte.png` |
 | 2 | **Sol** | Ambos brazos levantados, con las manos sobre la cabeza y las puntas de los dedos enfrentadas formando un arco | `sol.jpeg` |
@@ -20,6 +20,10 @@ Checked in this order — when a pose matches, earlier ones win:
 | 6 | **El Loco** | Ambos índices extendidos apuntando hacia las sienes | `Elloco.jpeg` |
 | 7 | **Emperador** | Cabeza frontal, manos abajo y brazos relajados (Default) | `emperador.jpeg` |
 
+- [carpeta de imágenes](./nombreCarpeta)
+
+- [video](./)
+  
 Meme images live in `cartas/`.
 
 ## Running it — desktop (Python)
